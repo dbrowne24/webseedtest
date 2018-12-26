@@ -91,6 +91,6 @@ expressAPI.post("/torrents", multerUpload.any(), function(req, res) {
 });
 
 
-expressAPI.listen(5000, () => {
+expressAPI.listen(7500, () => {
   console.log("[+] webseed listening on port: 5000");
 });
