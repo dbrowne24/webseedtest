@@ -1,10 +1,6 @@
 /**
- * 
- * 
  * Try to see if we can create a web seed server...
  * Fuck me this is not easy...
- * 
- * 
  */
 
 const bodyParser = require("body-parser");
